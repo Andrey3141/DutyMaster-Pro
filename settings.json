@@ -1,5 +1,5 @@
 {
-  "theme": "dark",
+  "theme": "light",
   "days_count": 6,
   "places_config": {
     "1 этаж": 2,
@@ -1802,8 +1802,8 @@
   },
   "algorithm": "random",
   "fixed_days": [
-    "пн",
-    "вт"
+    "вт",
+    "пн"
   ],
   "children_data": [
     {
